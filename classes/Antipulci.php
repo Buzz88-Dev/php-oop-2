@@ -24,7 +24,7 @@ class Antipulci extends Product
             return "Il prodotto è in vendita";
         } else {
             return "Fuori stagione";
-        }
+        }  
     }
 }
 
